@@ -1,24 +1,23 @@
-<h1 align="center">Hi 👋, I'm Achira Gaming</h1>
-<h3 align="center">A passionate frontend and backend developer from SriLanka</h3>
+<h1 align="center">Hi there! 👋 I'm Achira Gaming</h1>
+<h3 align="center">Passionate developer from Sri Lanka diving into front-end and back-end realms</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achiragaming&label=Profile%20views&color=0e75b6&style=flat" alt="achiragaming" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achiragaming" alt="achiragaming" /></a> </p>
+👨‍💻 **Languages**: Python,Typescript, JavaScript
 
-<p align="left"> <a href="https://twitter.com/achiragaming" target="blank"><img src="https://img.shields.io/twitter/follow/achiragaming?logo=twitter&style=for-the-badge" alt="achiragaming" /></a> </p>
-
-- 🔭 I’m currently working on [RabbitMQ-Controller](https://github.com/NoErrorStudio/RabbitMQ-Controller)
-
-- 🌱 I’m currently learning **Typescript , Kubrenetese**
-
-- 💬 Ask me about **Javascript ,Nodejs , React ,Mongo**
-
-- 📫 How to reach me **achira8856@gmail.com**
+- 🔭 Currently working on [RabbitMQ-Controller](https://github.com/NoErrorStudio/RabbitMQ-Controller) and [Kazagumo-better](https://github.com/NoErrorStudio/kazagumo-better)
+- 🌱 Currently learning **Typescript, Kubernetes, Python**
+- 💬 Ask me about **JavaScript, Node.js, React, MongoDB**
+- 📫 Reach me at **achira8856@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/achiragaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="achiragaming" height="30" width="40" /></a>
-<a href="https://discord.gg/sgNrXss5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sgNrXss5" height="30" width="40" /></a>
+  <a href="https://twitter.com/achiragaming" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="achiragaming" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/sgNrXss5" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sgNrXss5" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
