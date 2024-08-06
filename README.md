@@ -6,7 +6,7 @@
 👨‍💻 **Languages**: Python,Typescript, JavaScript
 
 - 🔭 Currently working on [RabbitMQ-Controller](https://github.com/NoErrorStudio/RabbitMQ-Controller) and [DamonJs](https://github.com/achiragaming/damonjs)
-- 🌱 Currently learning **Typescript, Kubernetes, Python**
+- 🌱 Currently learning **Rust, Kubernetes, Python**
 - 💬 Ask me about **JavaScript, Node.js, React, MongoDB**
 - 📫 Reach me at **achira8856@gmail.com**
 
