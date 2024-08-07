@@ -9,6 +9,7 @@
 - 🌱 Currently learning **Rust, Kubernetes, Python**
 - 💬 Ask me about **JavaScript, Node.js, React, MongoDB**
 - 📫 Reach me at **achira8856@gmail.com**
+- [Resume](https://github.com/achiragaming/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
